@@ -57,8 +57,10 @@ python main.py
 
 Here is a preview of the output video:
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/-mkXQx6O3fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video width="100%" height="auto" autoplay loop muted controls>
+  <source src="/output_videos/output.avi" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Contribution
