@@ -57,9 +57,8 @@ python main.py
 
 Here is a preview of the output video:
 
-<video width="100%" height="auto" autoplay loop muted>
-  <source src="https://youtu.be/-mkXQx6O3fk" type="video/mp4">
-</video>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/-mkXQx6O3fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Contribution
