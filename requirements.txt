@@ -1,0 +1,6 @@
+opencv-python
+roboflow
+scikit-learn
+ultralytics
+matplotlib
+numpy
